@@ -1,0 +1,53 @@
+**Sales and Quantity Report**
+
+---
+
+**1. Quantity Analysis:**
+
+   - 📊 The day with the highest Quantity was **Friday** at **8242** (⬆️36.57% vs. Sunday at 6035).
+
+   - 📈 **Friday** accounted for **16.63%** of the total Quantity.
+
+   - 📆 Across all **7 days**, Quantity ranged from **6035 to 8242**.
+
+   - 🚀 The sum of Quantity increased by **36,250.00%** between ⏰ **Saturday, Dec 30, 1899** and **Saturday, Dec 30, 1899, 08:00**.
+
+   - 📈 The steepest incline occurred between ⏰ **Saturday, Dec 30, 1899**, and **Saturday, Dec 30, 1899**, resulting in a jump from **4 to 1454**.
+
+**2. Pizza Quantity Analysis:**
+
+   - 🍕 At **2453**, **The Classic Deluxe Pizza** had the highest Quantity (⬆️3.46% vs. **The Thai Chicken Pizza** at **2371**).
+
+   - 📊 **The Classic Deluxe Pizza** accounted for **20.28%** of the total Quantity.
+
+   - 🍕 Across all **5 pizza names**, Quantity ranged from **2371 to 2453**.
+
+**3. Total Price Analysis:**
+
+   - 💵 The sum of total_price trended upward, showing a **166.94%** increase between ⏰ **Sunday, Dec 28, 2014**, and **Monday, Dec 28, 2015**.
+
+   - 📉 Total_price started trending down on ⏰ **Tuesday, Dec 8, 2015**, falling by **34.19%** ($3,763.30) in **20 days**.
+
+   - 💰 The steepest decline occurred between ⏰ **Tuesday, Dec 8, 2015**, and **Monday, Dec 28, 2015**, dropping from **$11,007.55 to $7,244.25**.
+
+   - 🔄 Anomalies, both high and low, were observed between ⏰ **Thursday, Jan 8, 2015**, and **Sunday, Nov 22, 2015**.
+
+   - ⚠️ The most recent anomaly was on ⏰ **Sunday, Nov 22, 2015**, with a low value of **$1,368.7**.
+
+   - 📈 The most significant anomaly was on ⏰ **Saturday, Jul 4, 2015**, with a high of **$3,864.2**.
+
+   - 📉 The longest period of decline (-$547.55) occurred between ⏰ **Sunday, Oct 11, 2015**, and **Sunday, Nov 22, 2015**.
+
+**4. Pizza Category Analysis:**
+
+   - 🍕 In the Pizza category, **Classic** had the highest total Total Price at **$220,053.10**, followed by **Supreme**, **Chicken**, and **Veggie**.
+
+   - 📊 **Classic** made up **6.88%** of the total Pizza Category.
+
+   - 📈 **Classic** also had the highest average Total Price at **$55,013.27**, followed by **Supreme**, **Chicken**, and **Veggie**.
+
+   - 📊 **Classic** accounted for **26.91%** of the total Sum of total_price.
+
+---
+
+This comprehensive report provides insights into the sales and quantity trends, highlighted with symbols and icons for quick understanding. 📊🍕💵
